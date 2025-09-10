@@ -19,7 +19,6 @@ The app requests the following permissions:
 
 • **Bluetooth:** To scan for and connect to nearby devices  
 • **Location:** Optional, for geofencing features only  
-• **Notifications:** To alert you when devices are found or lost
 
 ## Data Security
 
