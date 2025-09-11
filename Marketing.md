@@ -1,4 +1,4 @@
-# Find My Everything
+# Find My Everything - Marketing
 
 **Never lose your Bluetooth devices again. Find My Everything helps you track and locate your headphones, smartwatches, and more with ease.**
 
