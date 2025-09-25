@@ -4,17 +4,17 @@
 
 ## Acceptance of Terms
 
-By downloading, installing, or using FindMyEverything, you agree to be bound by these Terms of Use (End User License Agreement). If you do not agree to these terms, do not use the app.
+By downloading, installing, or using Findr, you agree to be bound by these Terms of Use (End User License Agreement). If you do not agree to these terms, do not use the app.
 
 ## Description of Service
 
-FindMyEverything is a Bluetooth device tracking application that helps you locate nearby devices using Bluetooth Low Energy (BLE) technology. The app processes all data locally on your device for privacy protection.
+Findr is a Bluetooth device tracking application that helps you locate nearby devices using Bluetooth Low Energy (BLE) technology. The app processes all data locally on your device for privacy protection.
 
 ## Auto-Renewable Subscriptions
 
 ### Subscription Options
 
-FindMyEverything offers the following auto-renewable subscription options:
+Findr offers the following auto-renewable subscription options:
 
 1. **Monthly Subscription**
    - Product ID: `fme.pro.monthly`
@@ -75,7 +75,7 @@ All device scanning and tracking occurs locally on your device. We do not collec
 
 ## Intellectual Property
 
-FindMyEverything and its content are protected by copyright and other intellectual property laws. You may not copy, modify, or distribute the app without permission.
+Findr and its content are protected by copyright and other intellectual property laws. You may not copy, modify, or distribute the app without permission.
 
 ## Termination
 
