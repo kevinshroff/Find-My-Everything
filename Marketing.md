@@ -1,10 +1,10 @@
-# Find My Everything - Marketing
+# Findr - Marketing
 
-**Never lose your Bluetooth devices again. Find My Everything helps you track and locate your headphones, smartwatches, and more with ease.**
+**Never lose your Bluetooth devices again. Findr helps you track and locate your headphones, smartwatches, and more with ease.**
 
 ---
 
-Find My Everything turns your phone into a powerful tracker for all your nearby Bluetooth accessories. Misplaced your earbuds? Can't find your fitness tracker? Open the app to see a list of your devices and how close you are to them.
+Findr turns your phone into a powerful tracker for all your nearby Bluetooth accessories. Misplaced your earbuds? Can't find your fitness tracker? Open the app to see a list of your devices and how close you are to them.
 
 ## Key Features
 
@@ -14,7 +14,7 @@ Find My Everything turns your phone into a powerful tracker for all your nearby 
 
 ## Unlock Pro for Ultimate Peace of Mind
 
-Upgrade to **Find My Everything Pro** to unlock the most powerful finding features available.
+Upgrade to **Findr Pro** to unlock the most powerful finding features available.
 
 -   ### 🎯 Precision Finder
     Find your lost devices with our intuitive "heat-seeking" mode. The screen guides you directly to your item's exact location, making finding it effortless.
@@ -35,7 +35,7 @@ Upgrade to **Find My Everything Pro** to unlock the most powerful finding featur
 
 ## Download
 
-[Download Find My Everything on the App Store!](https://apps.apple.com/app/your-app-id-here) *(<- Replace this with your App Store link once it's live)*
+[Download Findr on the App Store!](https://apps.apple.com/app/your-app-id-here) *(<- Replace this with your App Store link once it's live)*
 
 ## Contact & Support
 
