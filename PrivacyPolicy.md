@@ -1,10 +1,10 @@
-# Privacy Policy - Find My Everything
+# Privacy Policy - Findr
 
 **Effective Date:** Sep 10, 2025.
 
 ## Data Collection and Usage
 
-Find My Everything is designed with privacy in mind. All device scanning and tracking occurs locally on your device. We do not collect, store, or transmit any personal data or device information to external servers.
+Findr is designed with privacy in mind. All device scanning and tracking occurs locally on your device. We do not collect, store, or transmit any personal data or device information to external servers.
 
 ## Local Data Processing
 
@@ -34,4 +34,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ---
 
-*This privacy policy applies to the Find My Everything mobile application.*
+*This privacy policy applies to the Findr mobile application.*
