@@ -10,42 +10,8 @@ By downloading, installing, or using Findr, you agree to be bound by these Terms
 
 Findr is a Bluetooth device tracking application that helps you locate nearby devices using Bluetooth Low Energy (BLE) technology. The app processes all data locally on your device for privacy protection.
 
-## Auto-Renewable Subscriptions
+### Features
 
-### Subscription Options
-
-Findr offers the following auto-renewable subscription options:
-
-1. **Monthly Subscription**
-   - Product ID: `fme.pro.monthly`
-   - Price: $12.99 USD per month
-   - Length: 1 month
-   - Auto-renewal: Yes
-
-2. **Yearly Subscription**
-   - Product ID: `fme.pro.yearly`
-   - Price: $18.99 USD per year
-   - Length: 1 year
-   - Price per unit: $1.58 USD per month
-   - Auto-renewal: Yes
-
-3. **Lifetime Purchase**
-   - Product ID: `fme.pro.lifetime`
-   - Price: $24.99 USD
-   - Length: Lifetime (one-time purchase)
-   - Auto-renewal: No
-
-### Subscription Terms
-
-- **Payment:** Payment will be charged to your Apple ID account at confirmation of purchase.
-- **Auto-renewal:** Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
-- **Account charges:** Your account will be charged for renewal within 24 hours prior to the end of the current period.
-- **Management:** You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.
-- **Price changes:** Subscription prices may change with notice. Changes will not affect current subscriptions.
-
-### Pro Features
-
-Subscriptions unlock the following premium features:
 - Precision Finder with heat-seeking technology
 - Unlimited device tracking (no limitations)
 - Loss prevention alerts and tracking
