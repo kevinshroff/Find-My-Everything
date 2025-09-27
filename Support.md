@@ -20,8 +20,7 @@ Findr helps you keep track of your Bluetooth devices, like headphones, smartwatc
 ### How do I restore my Pro purchase?
 If you've purchased Pro and need to restore it on a new or existing device, simply go to the Pro upgrade screen (paywall) within the app and tap the "Restore Purchase" button. Your previous purchase will be verified with the App Store and your Pro features will be unlocked.
 
-### What are the Pro features?
-Upgrading to Pro unlocks powerful features to help you find your things even faster:
+### Features?
 -   **Precision Finder:** A "heat-seeking" mode to pinpoint the exact location of your lost devices.
 -   **Sonar Mode:** A basic device finder mode using signal strength.
 -   **Unlimited Device Tracking:** Track all of your Bluetooth devices without any limitations.
