@@ -12,9 +12,9 @@ Findr turns your phone into a powerful tracker for all your nearby Bluetooth acc
 -   **Real-time Signal Strength:** A simple proximity meter shows you whether you're getting closer or further away.
 -   **Track Your Favorites:** Add your important devices to a dedicated list for quick access.
 
-## Unlock Pro for Ultimate Peace of Mind
+## Ultimate Peace of Mind
 
-Upgrade to **Findr Pro** to unlock the most powerful finding features available.
+The most powerful finding features available.
 
 -   ### 🎯 Precision Finder
     Find your lost devices with our intuitive "heat-seeking" mode. The screen guides you directly to your item's exact location, making finding it effortless.
